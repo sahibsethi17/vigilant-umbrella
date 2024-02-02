@@ -1,1 +1,1 @@
-Hello, this is just a test repository! Please diregard. Thank you.
+Hello, this is just a test repository! Please disregard. Thank you.
